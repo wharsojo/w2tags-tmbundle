@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>name</key>
+        <string>each2</string>
+        <key>uuid</key>
+        <string>B1BB3E59-58DA-44EC-B348-6F65BC32AE74</string>
+        <key>tabTrigger</key>
+        <string>e2</string>
+        <key>content</key>
+        <string>-each @${1:var};r,i
+  $0</string>
+        <key>scope</key>
+        <string>text.w2erb</string>
+    </dict>
+</plist>
